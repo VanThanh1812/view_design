@@ -27,6 +27,9 @@ import com.facebook.login.LoginManager;
 import org.json.JSONObject;
 
 import g.vanthanhbk.getpostgroupf.api_facebook.ControlAPIFacebook;
+import g.vanthanhbk.getpostgroupf.fragment.OneFragment;
+import g.vanthanhbk.getpostgroupf.fragment.ThreeFragment;
+import g.vanthanhbk.getpostgroupf.fragment.TwoFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
